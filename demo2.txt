@@ -1,0 +1,1 @@
+This is a file pushed from new local repository into new branch, then can be pulled into master 
